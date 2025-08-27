@@ -3,3 +3,13 @@ for C++ : cout << variable_name;
 for Java : System.out.print();
 for Python : print()
 for Javascript : console.log()
+
+
+
+
+class Solution {
+    public void printNumber(Scanner sc) {
+int num=sc.nextInt();
+System.out.print(num);
+    }
+}
